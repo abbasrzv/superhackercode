@@ -10,3 +10,6 @@ Video: How to Create a Menu in Pygame
 Source: https://www.youtube.com/watch?v=2iyx8_elcYg&ab_channel=CodingWithRuss
 Reason: learning how to go to different screens (E.g. main game to item shop)
 
+Website: ChatGPT
+Source: https://chat.openai.com/
+Reason: fixing errors, helping create solutions, learning how to do lots of things such as adding sound
